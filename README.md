@@ -8,3 +8,4 @@ A to-do list is a useful application that lets you manage your tasks and mark th
 - Define functions to add, delete, complete, and show your tasks
 - Use file I/O operations to read and write your tasks to the text file
 - Use conditional statements and loops to handle different user inputs and errors
+![image](https://github.com/Ro706/python_todo/assets/60247178/36a4a37c-1cfd-4d41-9ce0-6bce32192709)
